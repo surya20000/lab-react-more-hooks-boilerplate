@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+}
+
+.content {
+    background-color: rgb(251, 220, 185);
+}
+
+.heading {
+    font-size: 3vh;
+}
+
+button {
+    padding: .1vh 2vh;
+}
